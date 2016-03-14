@@ -1,3 +1,2 @@
 # mypractice
-keep updating the documents
-why?
+这个仓库用来存放文档。
