@@ -1,3 +1,2 @@
 # mypractice
-keep updating the documents
-why?
+for the document.doc
